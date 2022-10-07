@@ -1,6 +1,6 @@
 # Simple Bash Utils
 
-Implementation of Bash text utilities: cat, grepin in C.
+Implementation of Bash text utilities: cat, grep in C.
 This is an individual educational project developed by me at School 21.
 
 
